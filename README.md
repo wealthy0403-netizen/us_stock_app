@@ -1,1 +1,1 @@
-# us_stock_app
+# us-stock-app
